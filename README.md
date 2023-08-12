@@ -9,4 +9,4 @@ Hola, mi nombre es Gabriel Alba Serrano, soy un estudiante de Matemáticas de ú
 conocimientos en programación, algoritmia y análisis de datos.
 En este perfil de GitHub, voy a publicar algunos proyectos en los que he trabajado durante mis estudios, abarcando diversos temas como el Diseño de Algoritmos, 
 Álgebra Computacional, Geometría Computacional y Programación Paralela. 
-Además, seguiré compartiendo nuevos proyectos que realice en el futuro. Actualmente, estoy trabajando en mi proyecto de fin de carrera sobre Computación Cuántica.
+Además, seguiré compartiendo nuevos proyectos que realice en el futuro. Actualmente, estoy trabajando en mi TFG sobre Computación Cuántica.
