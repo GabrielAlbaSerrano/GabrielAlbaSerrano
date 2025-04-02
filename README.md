@@ -10,7 +10,7 @@ Furthermore, I will keep posting new projects that I undertake in the future.
 ------------
 
 Hola, mi nombre es Gabriel Alba Serrano, graduado en Matemáticas y especializado en Ciencias de la Computación con sólidos
-conocimientos en programación, algoritmia y análisis de datos. Actualmente, estoy estudiando un máster universitario enfocado en la Ciencia de Datos y la Estadística Computacional <br>
+conocimientos en programación, algoritmia y análisis de datos. Actualmente, estoy estudiando un máster universitario sobre Ciencia de Datos y Estadística Computacional <br>
 En este perfil de GitHub, voy a publicar algunos proyectos en los que he trabajado durante mis estudios, abarcando diversos temas como el Diseño de Algoritmos, 
 Álgebra Computacional, Geometría Computacional y Programación Paralela. <br>
 Algunos trabajos son:
