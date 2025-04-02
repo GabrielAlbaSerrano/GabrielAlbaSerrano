@@ -1,4 +1,4 @@
-Hi, I’m Gabriel Alba Serrano, Mathematics graudate specialized in Computer Science with a background in programming, algorithms, and data analysis. Currently, I am studying a master's degree focused en Data Science and Computational Statistics. <br>
+Hi, I’m Gabriel Alba Serrano, Mathematics graudate specialized in Computer Science with a background in programming, algorithms, and data analysis. Currently, I am studying a master's degree focused on Data Science and Computational Statistics. <br>
 In this GitHub profile, I am going to post some projects I have worked on during my bachelor's degree studies, covering various subjects such as Algorithm Design, 
 Computational Algebra, Computational Geometry, and Parallel Programming. <br>
 Some interesting works on this profile are:
